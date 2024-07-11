@@ -1,4 +1,6 @@
 title: Jan Jędrzejewski
 description: Software Developer
-show_downloads: true
-theme: jekyll-theme-minimal
+baseurl: ""
+github_username: Luvkitri
+linkedin_username: jan-jędrzejewski-070044307
+theme: minima
