@@ -27,8 +27,15 @@ For over 2 years I've been working as software developer for a [Liki Mobile Solu
 
 
 ## Contributions
+- [xdg_ninja](https://github.com/b3nj5m1n/xdg-ninja)
+  - [#389](https://github.com/b3nj5m1n/xdg-ninja/pull/389)
+
 
 ## [Projects](/projects)
 Here you can find details about the projects I've made. Feel free to explore my Github profile, as not everything has been described.
 
 - [MTG helper](/projects/mtg-helper.md)
+- [MTG list converter](/projects/mtg-list-converter.md)
+- [Pascal compiler](/projects/pascal-compiler.md)
+- [Fuzzy forum](/projects/fuzzy-forum.md)
+- [Decentralized search engine](/projects/decentralized-search-engine)
