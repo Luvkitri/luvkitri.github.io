@@ -10,12 +10,12 @@ I'm particualry into:
 I'm constatly learning and trying out new things.
 
 ## Education 🎓
-**Technical University of Lodz**
-*Bachelor of Engineering in Computer Science*
+**Technical University of Lodz** \
+*Bachelor of Engineering in Computer Science* \
 *Specialization: Software Engineering*
 
-**Technical University of Lodz**
-*Master of Science in Computer Science*
+**Technical University of Lodz** \
+*Master of Science in Computer Science* \
 *Specialization: Mobile Platforms and Distributed Systems*
 
 ## Profesional Experience 🏢
