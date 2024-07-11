@@ -1,4 +1,4 @@
-# About me :man_technologist:
+## About me 🧑‍💻
 My name is Jan and I love software development.
 
 I'm particualry into:
@@ -9,7 +9,7 @@ I'm particualry into:
 
 I'm constatly learning and trying out new things.
 
-# Education :mortar_board:
+## Education 🎓
 **Technical University of Lodz**
 *Bachelor of Engineering in Computer Science*
 *Specialization: Software Engineering*
@@ -18,8 +18,8 @@ I'm constatly learning and trying out new things.
 *Master of Science in Computer Science*
 *Specialization: Mobile Platforms and Distributed Systems*
 
-# Profesional Experience :office:
+## Profesional Experience 🏢
 For over 2 years I've been working as software developer for a [Liki Mobile Solutions](https://likims.com/). During that time I've been working on multiple projects as frontend developer with ocassionall backend contributions.
 
 
-# Projects
+## Projects
